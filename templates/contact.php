@@ -1,12 +1,12 @@
 <?php
 /**
-*Template Name: Contact
-*
-*/
+ * Template Name: Contact
+ *
+ */
 ?>
 <?php get_header() ?>
 
-               <div class="row">
+<div class="row">
     <div class="col-sm-4">
         <h3>Address</h3>
 

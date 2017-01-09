@@ -53,8 +53,6 @@
 </footer><!-- /.footer -->
 
 </div><!-- /.page-wrapper -->
-yoyo
-<?php var_dump($content); ?>
 
 
 
