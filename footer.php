@@ -53,6 +53,10 @@
 </footer><!-- /.footer -->
 
 </div><!-- /.page-wrapper -->
+yoyo
+<?php var_dump($content); ?>
+
+
 
 <script src="<?php echo get_stylesheet_directory_uri();?>/assets/js/jquery.js" type="text/javascript"></script>
 <script src="<?php echo get_stylesheet_directory_uri();?>/assets/js/map.js" type="text/javascript"></script>
