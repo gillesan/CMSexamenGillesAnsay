@@ -8,7 +8,7 @@
 //include_once(dirname(__FILE__) . '/extensions/Twitter.php'); 
 //include_once(dirname(__DIR__) . '/extensions/Twitter.php'); 
 
-include dirname(__DIR__) . '/CMSexamenGillesAnsay/extensions/Twitter.php';
+//include dirname(__DIR__) . '/CMSexamenGillesAnsay/extensions/Twitter.php';
 
 
 register_nav_menus(array(

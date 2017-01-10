@@ -17,4 +17,4 @@ class Twitter
 
 }
 
-var_dump($content);
+//var_dump($content);
