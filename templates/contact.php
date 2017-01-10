@@ -6,6 +6,17 @@
 ?>
 <?php get_header() ?>
 
+<?php
+$instantTweet = new Tweets();
+
+
+foreach ($instantTweet->getTweets(2, 'GillesAnsay') as $tweet) {
+    echo $tweet->text;
+}
+?>
+
+
+
 <div class="row">
     <div class="col-sm-4">
         <h3>Address</h3>

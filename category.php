@@ -36,7 +36,7 @@
 
                                 <div class="post-content">
                                     <h2><a href="blog-detail.html"><?php echo $title; ?><a></h2>
-                                                <p><?php echo $content;?></p>
+                                                <p><?php echo get_the_content();?></p>
                                 </div> <!-- /.post-content -->
 
                                  <div class="post-meta clearfix">
